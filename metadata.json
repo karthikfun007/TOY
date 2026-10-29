@@ -1,0 +1,6 @@
+{
+  "name": "Toybox Trouble - 2D Multiplayer Platform Racer",
+  "description": "A colourful 2D pixel-art multiplayer party platform racer. Race friends, secretly plant comedic traps, dodge toy trains, and compete across 5 rounds for toybox supremacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
